@@ -16,3 +16,9 @@
 
 <h1>Trailer streaming page</h1>
 <img src= https://github.com/WorkWithAdithya/Trailer-streaming-application-using-Android-studio/blob/main/images/Trailer%20viewing%20page.jpg width='500' height='1000'>
+
+
+<h1>Requirements</h1>
+<li>Android studio</li>
+<li>Java</li>
+<li>Graphic card : min GTX 1650 </li>
